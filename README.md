@@ -27,5 +27,5 @@ The full PRD (linked above) covers:
 - All data shown is illustrative/simulated for demonstration purposes — this is a UX and product-thinking prototype, not a live AI system
 
 ## About me
-[Your name] — Business Analyst with [X] years of experience in [your domain/industry]. Open to product-adjacent BA roles.
-[LinkedIn link] · [Email]
+Swathy Krishna  — Business Analyst /Scrum Master with 5 years of experience in Fintech , Insuretch . Open to product-adjacent BA roles.
+Mail · Swathyk200@gmail.com
